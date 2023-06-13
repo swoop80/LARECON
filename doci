@@ -1,4 +1,4 @@
-dpr
+dprx
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     <PropertyGroup>
         <ProjectGuid>{969C37D5-131B-4DAD-994F-453AF7587AFB}</ProjectGuid>
